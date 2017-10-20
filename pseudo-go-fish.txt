@@ -46,6 +46,6 @@ The player asks another player if they have a card of a certain rank;
 		If else;
 			The game continues as normal;
 
-And the list goes on until someone gets 13 books and wins the game.
+And the list goes on until someone gets 13 books and wins the game;
 
 
