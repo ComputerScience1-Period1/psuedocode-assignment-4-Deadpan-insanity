@@ -1,0 +1,51 @@
+Jackson Campbell
+10/17/17 1st period
+Go fish pseudo-code
+At the start of the game, each player is dealt 5 cards; the remaining cards are placed in a stack in the center. 
+The player to the left of the dealer then starts by asking another player if they have a certain rank of card; 
+If they do;
+ That player is required to hand over all the cards of that rank that they have;
+If they don’t;
+ The player responds with “go fish” and the asker has to draw a card from the center;
+ A player gains points by having 2 or more cards of the same rank (rank being 2-10, king, queen, joker and ace); 
+If a player has 2 or more cards of the same rank;
+ They take all cards that apply from their deck and lay them together in front of them (which are called a book) which count as one point;
+If they don’t;
+ The game continues as normal;
+The game is won when a player has 13 books in total;
+First Round:
+If the player has more than one of one rank of card;
+	Player places all cards that apply down in front of them;
+If else; 
+	Player asks another player if they have any cards of a certain rank;
+		If the other player does have the card the player asked for;
+			Other player gives the card to the player and the player puts all matching cards down as a book;
+		If else;
+			Other player responds with “go fish” and the player draws a card from the center stack;
+				If drawn card matches one of the player’s cards; 
+					Player puts all matching cards down as a book;
+After all actions are completed, the game continues as normal;
+Second round: 
+Player asks another player if they have a card of a certain rank;
+	If they do;
+		That player gives all cards that apply to the player and the player sets all matching cards down as a book;
+	If else;
+		That player responds with “go fish” and the player draws from the center stack of cards;
+			If drawn card matches one of the player’s cards;
+				The player sets all matching cards as a book;
+			If else;
+The game continues as normal;
+Third round:
+The player asks another player if they have a card of a certain rank;
+	If they do;
+		The other player gives all matching cards to the player and the player sets all matching cards down as a book;
+	If else;
+		The other player responds with “go fish” and the player must draw a card from the center stack;
+		If drawn card matches one of the player’s cards;
+			The player sets down the matching cards as a book;
+		If else;
+			The game continues as normal;
+
+And the list goes on until someone gets 13 books and wins the game.
+
+
